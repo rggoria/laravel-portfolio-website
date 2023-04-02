@@ -73,3 +73,5 @@ php artisan cache:clear
 composer dump-autoload
 php artisan key:generate
 npm install
+npm run build
+php artisan serve
